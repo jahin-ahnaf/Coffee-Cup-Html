@@ -1,24 +1,24 @@
 .cup {
-				height: 200px;
-				width: 200px;
-				background-color: #632511;
-				margin: 250px auto 20px;
-				border-radius: 5px 5px 50px 50px;
+	height: 200px;
+	width: 200px;
+	background-color: #632511;
+	margin: 250px auto 20px;
+	border-radius: 5px 5px 50px 50px;
 }
 .coffee{
-				height: 100px;
-				width: 200px;
-				background-color: #a25736;
-				margin: 250px auto 20px;
-				border-radius: 5px 5px 0 0;
-				padding: 10px 0 0 0;
+	height: 100px;
+	width: 200px;
+	background-color: #a25736;
+	margin: 250px auto 20px;
+	border-radius: 5px 5px 0 0;
+	padding: 10px 0 0 0;
 }
 body {
-				background-color: #ffc755;
+	background-color: #ffc755;
 }
 p {
-				color: white;
-				text-align: center;
-				font-family: cursive;
-				font-size: 30px;
+	color: white;
+	text-align: center;
+	font-family: cursive;
+	font-size: 30px;
 }
